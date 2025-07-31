@@ -1,2 +1,2 @@
 # ToDoList
-ava project using a singly linkedlist
+java project using a singly linkedlist
